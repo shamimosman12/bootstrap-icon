@@ -1,0 +1,10 @@
+ .container{
+ 	margin: 0 auto;
+ 	 justify-content: center;
+ 	 display: flex;
+ }
+  .icon{
+	font-size: 80px;
+    color: aqua;
+
+}
